@@ -11,7 +11,8 @@ body {
 }
 
 #img{
- width:200px;   
+ width:200px;
+ display: none;   
 }
 
 div {
@@ -21,27 +22,47 @@ div {
 /*This is the blue shape*/
 
 #blue{
-   background-color:skyblue;
-    height:65px;
-}
-
-/*COMPLETE CSS BELOW*/
+    background-color:darkcyan;
+     height:250px;
+     width:5000px;
+ }
 
 #yellow{
-    
+    background-color: #c9c23c;
+    height:150px;
+    width:5000px;
 }
 
 #black{
-    
+    background-color: black;
+    height:160px; 
+    width: 5000px;  
 }
 
 #gold{
-    
+    background-color: goldenrod;
+    height:150px; 
+    width: 5000px;    
+}
+#green{
+    background-color: darkgreen;
+    height:270px;
+    width:5000px;
 }
 
-#green{
-    
-    
-}
+
+
+
+
+
+
+/*COMPLETE CSS BELOW*/
+
+
+
+
+
+
+
 
 
