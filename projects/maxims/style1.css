@@ -1,0 +1,24 @@
+body{
+	background-color: navy;
+}
+p{
+	color: white;
+	font-size: 150px;
+}
+
+
+.grow {
+  animation: growth 5s;
+  animation-fill-mode: backwards;
+  font-size: 150px;
+  animation-iteration-count: 20;
+}
+
+@keyframes growth {
+  0% {
+    font-size: 0;
+  }
+  100% {
+    font-size: 400px;
+  }
+}
