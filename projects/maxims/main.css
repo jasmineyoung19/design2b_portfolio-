@@ -83,3 +83,17 @@ body {
         opacity: 1;
     }
 }
+a {
+    font-family: 'Cormorant Garamond', serif;
+    color: lavenderblush;
+    size: 30px;
+    text-decoration: none;
+    border: 1px solid;
+    padding: 10px;
+    margin-top: 500px;
+    position: fixed;
+}
+
+a:hover {
+    background-color: black;
+}

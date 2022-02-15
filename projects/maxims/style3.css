@@ -53,3 +53,18 @@ body{
   }
 
 }
+a {
+  font-family: 'Cormorant Garamond', serif;
+  color: red;
+  size: 30px;
+  text-decoration: none;
+  border: 1px solid;
+  padding: 10px;
+  margin-left: 50%;
+
+
+}
+
+a:hover {
+  background-color: black;
+}

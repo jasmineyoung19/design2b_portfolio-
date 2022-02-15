@@ -58,3 +58,16 @@ body {
   background-color: #010a01;
 }  
 
+a {
+  font-family: 'Cormorant Garamond', serif;
+  color: green;
+  size: 30px;
+  text-decoration: none;
+  border: 1px solid;
+  padding: 10px;
+  margin-bottom: 500px;
+  position: fixed;
+}
+
+a:hover {
+  background-color: white;

@@ -22,3 +22,18 @@ p{
     font-size: 400px;
   }
 }
+a {
+  font-family: 'Cormorant Garamond', serif;
+  color: orange;
+  size: 30px;
+  text-decoration: none;
+  border: 1px solid;
+  padding: 10px;
+  margin-bottom: 500px;
+  position: fixed;
+  margin-left: 50%;
+}
+
+a:hover {
+  background-color: black;
+}

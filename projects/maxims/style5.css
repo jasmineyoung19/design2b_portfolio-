@@ -48,3 +48,19 @@
   font-size: 8.5vw;
   text-transform: uppercase;
 }
+
+a {
+  font-family: 'Cormorant Garamond', serif;
+  color: orange;
+  size: 30px;
+  text-decoration: none;
+  border: 1px solid;
+  padding: 10px;
+  margin-bottom: 500px;
+  margin-left: 50%;
+
+}
+
+a:hover {
+  background-color: black;
+}
