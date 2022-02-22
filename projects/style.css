@@ -1,0 +1,57 @@
+body {
+	background-color: lightpink;
+	height:100vh;
+	cursor: url('heart.svg'),auto;
+
+}
+h1 {
+	font-family: 'Cormorant Garamond', serif;
+	color: hotpink;
+	font-size: 150px;
+	position:fixed;
+	display:inline-block;
+	margin-left: 5%;
+
+}
+
+
+
+	
+#boiler {
+	display: block;
+	width:500px;
+	height:400px;
+	margin-left: 15%;
+}
+
+#boiler:hover {
+	box-shadow: 15px 15px 15px palevioletred;
+}
+
+#porty {
+	display: block;
+	width:500px;
+	height:400px;
+	margin-left: 50%;
+	margin-top:-5%;
+
+}
+
+#porty:hover{
+	box-shadow: -15px -15px 15px red;}
+
+
+#max{
+	display: block;
+	width:500px;
+	height:400px;
+	margin-left: 15%;
+	margin-top:-5%;
+}
+
+#max:hover{
+	box-shadow: 15px -15px 15px fuchsia;
+}
+
+
+  

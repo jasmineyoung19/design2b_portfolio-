@@ -1,0 +1,48 @@
+body{
+    background-color:#ffc4d5;
+}
+
+h1 {
+	font-family: 'Cormorant Garamond', serif;
+	color: hotpink;
+	font-size: 150px;
+	position:fixed;
+    margin-left:5.5%;
+}
+.bio {
+    font-family: 'Cormorant Garamond', serif;
+    color:darkred;
+    font-size: 40px;
+    position:absolute;
+    animation-duration: 3s;
+  animation-name: slidein;
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+
+
+}
+.contact {
+    font-family: 'Cormorant Garamond', serif;
+    color: #fc03be;
+    font-size: 25px;
+    position:fixed;
+    margin-left:34%;
+    margin-top:18%;
+    text-decoration: none;
+    
+}
+
+#image{
+    width:100%;
+    height:100%;
+}

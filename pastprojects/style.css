@@ -1,0 +1,58 @@
+body {
+	background-color: #ffbfe5;
+	height:100vh;
+	cursor: url('heart.svg'),auto;
+
+}
+h1 {
+
+	color: hotpink;
+	font-size: 150px;
+	position:fixed;
+	display:inline-block;
+    margin-left: 5%;
+}
+#jamie {
+	display: block;
+	width:60%;
+	margin-left: 20%;
+}
+
+#jamie:hover {
+	box-shadow: 15px 15px 15px violet;
+}
+
+#info {
+	display: block;
+	width:60%;
+	margin-left: 5%;
+	margin-top:5%;
+
+}
+
+#info:hover{
+	box-shadow: -15px -15px 15px rgba(189, 122, 206, 0.979);}
+
+
+#viet{
+	display: block;
+	width:60%;
+	margin-left: 25%;
+    margin-top:5%;
+
+}
+
+#viet:hover{
+	box-shadow: 15px -15px 15px rgb(204, 98, 116);
+}
+#print{
+	display: block;
+	width:60%;
+	margin-left: 25%;
+    margin-top:5%;
+
+}
+
+#print:hover{
+	box-shadow: 15px -15px 15px rgb(204, 98, 116);
+}
