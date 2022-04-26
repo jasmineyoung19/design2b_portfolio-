@@ -17,6 +17,9 @@ a{
   a:visited{
   text-decoration: none;
   }
+  a:hover{
+    color:palevioletred;
+  }
 
 .bio {
     font-family: 'Cormorant Garamond', serif;
