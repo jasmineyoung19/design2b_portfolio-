@@ -26,6 +26,20 @@ p:hover { text-decoration: none; }
 p:focus { text-decoration: none; }
 p:hover,p:active { text-decoration: none; }
 
+a{
+	text-decoration: none;
+	color: hotpink;
+	}
+	
+a:visited{
+	text-decoration: none;
+
+	}
+
+a:hover{
+	color:palevioletred;
+}
+
 #a {
 	height: 50%;
 	margin-top: 12%;

@@ -9,6 +9,15 @@ h1 {
 	position:fixed;
     margin-left:5.5%;
 }
+a{
+  text-decoration: none;
+  color: hotpink;
+  }
+  
+  a:visited{
+  text-decoration: none;
+  }
+
 .bio {
     font-family: 'Cormorant Garamond', serif;
     color:darkred;
